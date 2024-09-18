@@ -1,2 +1,2 @@
-- 👋 Hi, I’m Andrés Di Bari, i am a computer engineering student.
+- 👋 Hello world! My name is Andrés and I am a software engineer. 
 - 👀 I’m interested in cybersecurity, web development and software development.
